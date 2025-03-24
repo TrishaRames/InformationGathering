@@ -22,7 +22,44 @@ Open terminal/browser and try execute necessary commands/use url to perform info
 
 
 ## OUTPUT:
-
+whois
+![Alt text](whois.png)
+ip2location
+![Alt text](ip2location.png)
+waybackmachine
+![Alt text](wayback.png)
+pingcommand
+![Alt text](ping.png)
+whois
+![Alt text](<Screenshot at 2025-03-17 10-07-46.png>)
+netcat
+![Alt text](nc.png)
+nmap 
+![Alt text](nmap.png)
+whatweb
+![Alt text](whatweb.png)
+TCP traceroute
+![Alt text](traceroute.png)
+UDP traceroute
+![Alt text](<traceroute -U.png>)
+ip2location
+![Alt text](ip2location.png)
+waybackmachine
+![Alt text](wayback.png)
+pingcommand
+![Alt text](ping.png)
+whois
+![Alt text](<Screenshot at 2025-03-17 10-07-46.png>)
+netcat
+![Alt text](nc.png)
+nmap 
+![Alt text](nmap.png)
+whatweb
+![Alt text](whatweb.png)
+TCP traceroute
+![Alt text](traceroute.png)
+UDP traceroute
+![Alt text](<traceroute -U.png>)
 
 ## RESULT:
 The information gathering techniques tools/procedure were  identified successfully
